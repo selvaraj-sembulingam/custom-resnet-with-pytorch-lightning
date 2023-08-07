@@ -11,7 +11,7 @@ This repository provides a complete guide and code for training a custom ResNet 
     └── model.py
     └── utils.py
 └── README.md
-└── S12.ipynb
+└── main.ipynb
 └── train.py
 ```
 
